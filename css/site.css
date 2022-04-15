@@ -1,0 +1,523 @@
+:root {
+    --color1: #0098ff;
+    --color2: #181717;
+    --color3: #353131;
+    --colorFont: #cdc5c9;
+    --whiteColor: #fff;
+}
+
+@font-face {
+    font-family: "Cairo";
+    src: url("../fonts/Cairo-VariableFont_wght.ttf") format("truetype");
+}
+body {
+    font-family: cairo;
+    background-color: var(--color2);
+    color: var(--colorFont);
+    letter-spacing: 1px;
+}
+
+.siteBtn {
+    background: var(--color1);
+    display: block;
+    margin: 15px auto;
+    text-align: center;
+    color: var(--whiteColor);
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.siteBtn:hover ,
+.siteBtn:focus {
+    color: var(--whiteColor);
+    text-decoration: none;
+}
+.siteBtn.disabled {
+    background: var(--color2);
+}
+/* start navgation */
+.navgation {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    text-align: right;
+    z-index: 1000;
+}
+.navgation .menuBtn {
+    background-color: var(--color1);
+    display: inline-block;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 35px;
+}
+.navgation .menu {
+    background-color: rgba(53, 49, 49, .9);
+    padding: 10px;
+    border-radius: 10px;
+    display: none
+}
+.navgation .menu ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.navgation .menu ul li a {
+    color: var(--colorFont);
+    display: block;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+.navgation .menu ul li a:hover {
+    background-color: var(--color1);
+    color: var(--whiteColor);
+}
+.navgation .menu ul li a i {
+    margin-right: 10px;
+}
+@media(max-width: 767px){
+    .navgation {
+        bottom: 10px;
+        right: 13px;
+    }
+    .navgation .menu ul li a {
+        padding: 10px;
+    }
+}
+/* endd navegation */
+
+
+
+
+
+
+
+/* start home style */
+.home {
+    min-height: 100vh;
+}
+.home .userPhoto {
+    margin-top: 100px;
+}
+.home .mainInfo {
+    margin-top: 35vh;
+    margin-bottom: 20px;
+}
+.home .mainInfo h3 {
+    font-size: 35px;
+    color: var(--color1);
+    font-weight: bold;
+}
+.home .mainInfo h1 {
+    font-size: 60px;
+}
+.home .mainInfo h2 {
+    display: inline-block;
+    padding: 0 15px;
+    border-left: 4px solid var(--color1);
+    border-right: 4px solid var(--color1);
+}
+
+.home .socialLinks a {
+    color: var(--whiteColor);
+    background-color: var(--color3);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 15px;
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .home .mainInfo {
+        margin-top: 50px;
+    }
+    .home .userPhoto {
+        margin-top: 40px;
+    }
+    .home .mainInfo h1 {
+        font-size: 36px;
+    }
+    .home .mainInfo h2 {
+        font-size: 16px;
+        padding: 0 5px;
+    }
+}
+/* end home style */
+
+
+
+
+
+/* start about page */
+.about {
+    padding: 20px 0;
+    display: none;
+}
+.about  h3 {
+    color: var(--colorFont);
+    padding: 15px 0;
+    margin: 0 0 10px 0;
+    border-bottom: 2px solid var(--color3);
+}
+.about .intro {
+    margin-bottom: 50px;
+    padding: 10px 15px;
+}
+.about .intro img {
+    width: 250px;
+    height: 250px;
+}
+.about .intro h2 {
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.about .intro h3 {
+    color: var(--color1);
+    display: inline-block;
+    margin: 0;
+    padding: 0 0 10px;
+    border: none;
+}
+.about .intro .summary p {
+    font-size: 15px;
+}
+.about .languages {
+    margin-top: 20px;
+}
+.about .personalInfo b,
+.about .languages b {
+    color: var(--colorFont);
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px 10px;
+}
+.about .personalInfo i,
+.about .languages i {
+    color: #8cafc5;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.about .languages i {
+    font-size: 15px;
+}
+
+.about .socialLinks {
+    margin: 20px 0;
+    padding: 10px 5px;
+}
+.about .socialLinks {
+    margin: 0 0 20px 0;
+}
+.about .socialLinks a {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    margin: 0 10px;
+    text-align: center;
+    transition: .9s ease;
+    color: var(--whiteColor);
+    background-color: var(--color3);
+}
+.about .socialLinks a:hover,
+.about .socialLinks a:focus {
+    color: var(--color1);
+    background-color: var(--whiteColor);
+}
+.about .freelancerBtns {
+    margin: 20px 0;
+}
+.about .freelancerBtns a {
+    display: inline-block;
+    min-width: 100px;
+    font-size: 14px;
+    padding: 10px 10px;
+    margin: 20px 10px;
+    border-radius: 10px;
+    letter-spacing: 2px;
+    color: #8cafc5;
+    background-color: var(--color3);
+    font-weight: bold;
+    text-decoration: none;
+    transition: .9s ease;
+}
+.about .freelancerBtns a:hover,
+.about .freelancerBtns a:focus {
+    color: var(--color3);
+    background-color: var(--whiteColor);
+}
+
+
+.about .skills,
+.about .inPlanSkills,
+.about .personalSkills {
+    margin-bottom: 20px;
+}
+.about .skills .item,
+.about .inPlanSkills .item {
+    padding: 10px;
+    margin: 20px 0;
+    background-color: var(--color2);
+    color: var(--colorFont);
+    border-radius: 30px;
+    border-bottom: 1px solid var(--color1);
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.about .inPlanSkills .item {
+    background-color: var(--color3);
+    color: var(--whiteColor);
+    font-weight: normal
+}
+.about .personalSkills span {
+    text-transform: capitalize;
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px 3px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: var(--color3);
+    cursor: pointer;
+    color: var(--colorFont);
+    letter-spacing: 2px;
+}
+.about .personalSkills {
+    margin: 20px 0 ;
+}
+.about .downloadCvBtn {
+    margin: 50px 0 ;
+}
+@media(max-width: 767px) {
+    .about h3 {
+        font-size: 18px;
+    }
+    .about .intro {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .about .intro img {
+        width: 150px;
+        height: 150px;
+    }
+    .about .intro .summary p {
+        font-size: 14px
+    }
+    .about .socialLinks a {
+        margin: 0 5px;
+    }
+    .about .mainInfo h2 {
+        font-size: 30px;
+    }
+
+    .about .personalInfo b,
+    .about .languages b {
+        padding: 5px 0;
+        margin: 5px 0;
+    }
+    .about .languages b {
+        padding: 5px;
+        margin: 5px;
+    }
+    .about .personalInfo i,
+    .about .languages i {
+        font-size: 15px;
+        margin-right: 5px;
+    }
+
+    .about .personalSkills span {
+        padding: 5px;
+        margin: 5px 2px;
+        letter-spacing: normal;
+        border-radius: 1px;
+    }
+    /* .about .skills .item, .about .inPlanSkills .item {
+        letter-spacing: 1px;
+    } */
+}
+/* end about page */
+
+
+/* start projects section */
+.recentProjects {
+    padding: 40px 0;
+    display: none;
+}
+.recentProjects h2 {
+    margin-bottom: 40px;
+}
+
+.recentProjects .project {
+    max-width: 300px;
+    height: 380px;
+    border-radius: 30px;
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    transition: .7s ease;
+    margin: 20px auto;
+}
+
+.recentProjects .overlay {
+    background-color: rgba(0, 0, 0, .1);
+    width: 100%;
+    height: 100%;
+    transition: .7s ease;
+}
+.recentProjects .project span {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 22px;
+}
+.recentProjects .project .details {
+    transition: .6s ease;
+    position: absolute;
+    top: 285px;
+}
+.recentProjects .project .details h3 {
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, .7);
+    padding: 10px 20px;
+}
+.recentProjects .project .details p {
+    opacity: 0;
+    transition: .6s ease;
+    padding: 0 20px;
+}
+.recentProjects .sale {
+    background-color: var(--color1) !important;
+    color: var(--whiteColor) !important;
+}
+
+/* when hover projec all this will happen */
+.recentProjects .project:hover {
+    box-shadow: var(--whiteColor) 0 0 10px 1px;
+}
+.recentProjects .project:hover .overlay{
+    background-color: rgba(0, 0, 0, .6);
+}
+.recentProjects .project:hover .details p {
+    opacity: 1;
+}
+.recentProjects .project:hover .details {
+    top: 90px;
+}
+
+
+/* start modal style */
+@media (min-width: 768px)
+{
+    .modal-dialog {
+        width: 95%;
+        margin: 70px auto;
+    }
+}
+.recentProjects .modal .modal-content {
+    background-color: var(--color3);
+}
+.recentProjects .modal .modal-body {
+    padding: 10px 10px 0;
+}
+
+.recentProjects .modal-content .title h3 {
+    margin: 10px 0;
+}
+.recentProjects .modal-content .title,
+.recentProjects .modal-content .description,
+.recentProjects .modal-content .technologies,
+.recentProjects .modal-content .copyrights,
+.recentProjects .modal-content .projectImage,
+.recentProjects .modal-content .developerInfo {
+    background-color: var(--color2);
+    padding: 15px 20px;
+    margin: 0 0 10px;
+    border-radius: 10px;
+}
+.recentProjects .modal-content .description p {
+    color: var(--colorFont);
+}
+.recentProjects .modal-content img {
+    height: 471px;
+}
+.carousel-caption {
+    background: rgba(0,0,0, .5);
+    border-radius: 22px;
+    color: var(--whiteColor);
+}
+
+.recentProjects .modal-content .technologies span,
+.recentProjects .modal-content .developerInfo span {
+    background-color: rebeccapurple;
+    border-radius: 9px;
+    padding: 3px 10px;
+    margin: 5px 2px;
+    display: inline-block;
+}
+
+.recentProjects .modal-content .projectLink a.disabled {
+    pointer-events: all;
+}
+.recentProjects .modal-content .developerInfo {
+    margin-top: 10px;
+}
+.recentProjects .modal-content .developerInfo span {
+    background-color: var(--color3);
+    border-radius: 6px;
+    color: var(--colorFont);
+}
+
+.recentProjects .modal .modal-footer button {
+    border-color: var(--color1);
+    background-color: var(--color2);
+    color: #fff;
+    min-width: 50%;
+    font-weight: bold;
+}
+
+
+@media(max-width: 767px) {
+    .recentProjects h2 {
+        margin-bottom: 10px;
+    }
+
+    .recentProjects .modal-content .projectLink a {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .recentProjects .modal-content img {
+        height: 250px;
+    }
+
+    .recentProjects .modal-content .developerInfo{
+        padding: 10px 7px;
+    }
+    .recentProjects .modal-content .developerInfo b {
+        display: block;
+        text-align: right;
+        margin-bottom: 10px;
+    }
+    .recentProjects .modal-content .developerInfo div:first-of-type b {
+        display: inline-block
+    }
+    .recentProjects .modal .modal-footer {
+        border: 0;
+        text-align: center;
+        padding: 0 0 10px
+    }
+}
+/* end projects section */

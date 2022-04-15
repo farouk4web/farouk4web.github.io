@@ -1,0 +1,391 @@
+{
+  "menuLinks": [
+    {
+      "title": "Home",
+      "url": "Home",
+      "icon": "icofont-home"
+    },
+    {
+      "title": "About",
+      "url": "About",
+      "icon": "icofont-id-card"
+    },
+    {
+      "title": "Recent Projects",
+      "url": "Recent_Projects",
+      "icon": "icofont-files-stack"
+    }
+  ],
+
+  "downloadCvHead": "Download CV",
+  "cvLink": "/images/Farouk_Abdelhamid_CV.pdf",
+  "welcomeMsg": "Hi, I am",
+  "homeDeveloperPicturSrc": "https://res.cloudinary.com/files-store/image/upload/v1644529725/MySite/developer/userHome.png",
+  "aboutDeveloperPicturSrc": "https://res.cloudinary.com/files-store/image/upload/v1644529686/MySite/developer/userAbout.png",
+
+  "developerName": "Farouk Abdelhamid",
+  "jobTitle": "Fullstack Developer",
+  "summary": "Hi,thir i am fullstack web developer all skills i was learn, all of thim by 'self Learning' from youtube and paid courses in courses sites, i have no experience in working with companies, if you want to say your openion in my projects just you can see my Recent project page.",
+  "personalInformationHead": "Personal Information",
+  "addressHead": "Address",
+  "address": "Qena - Egypt",
+
+  "educationHead": "Education",
+  "education": "Commercial school",
+
+  "dateOfBirthHead": "Date of Birth",
+  "dateOfBirth": "09/07/1997",
+
+  "maritalStatusHead": "Marital Status",
+  "maritalStatus": "Single",
+
+  "militaryStatusHead": "Military Status",
+  "militaryStatus": "Finished",
+
+  "languagesHead": "Languages",
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native language"
+    },
+    {
+      "name": "English",
+      "level": " Middle level"
+    }
+  ],
+
+  "mySkillsHead": "My Skills",
+  "skills": [
+    "Asp.Net MVC 5",
+    "EF Code First",
+    "C Sharp",
+    "Java Script",
+    "Jquery",
+    "Bootstrap",
+    "Json",
+    "Ajax",
+    "Html 5",
+    "Css 3"
+  ],
+
+  "inPlanSkillsHead": "In Plan",
+  "inPlanSkills": [
+    "Asp.Net core",
+    "React.js"
+  ],
+
+  "personalSkillsAndHobbiesHead": "Personal Skills & Hobbies",
+  "personalSkillsAndHobbies": [
+    "Organized",
+    "Communative",
+    "punctuality",
+    "Analytical Thinking",
+    "Fast Learner",
+    "Reading",
+    "Social",
+    "Chess",
+    "Electric Technical"
+  ],
+
+  "followMeHead": "Follow me",
+  "socialAccounts": [
+    {
+      "title": "Email",
+      "char": "e",
+      "url": "mailto:faroukAbdelhamid.eg@gmail.com",
+      "mainColor": "var(--color2)",
+      "icon": "icofont-email"
+    },
+    {
+      "title": "Whatsapp",
+      "char": "w",
+      "url": "https://wa.me/00201118179885",
+      "mainColor": "#075e54",
+      "icon": "icofont-brand-whatsapp"
+    },
+    {
+      "title": "Linkedin",
+      "char": "in",
+      "url": "https://Linkedin.com/in/farouk4web/",
+      "mainColor": "#0a66c2",
+      "icon": "icofont-linkedin"
+    },
+    {
+      "title": "Twitter",
+      "char": "t",
+      "url": "https://twitter.com/farouk4web/",
+      "mainColor": "#1da1f2",
+      "icon": "icofont-twitter"
+    },
+    {
+      "title": "Facebook",
+      "char": "f",
+      "url": "https://facebook.com/farouk4web/",
+      "mainColor": "#1877f2",
+      "icon": "icofont-facebook"
+    }
+
+  ],
+
+  "hireMeHead": "Hire me",
+  "freelanceSites": [
+    {
+      "siteTilte": "Mostaql",
+      "url": "https://mostaql.com/u/farouk_almasry"
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+  "recentProjectsHead": "Recent Projects",
+
+  "projects": [
+    {
+      "index": 0,
+      "title": "Nasiha",
+      "description": "Nasiha it is the first project i was cerated it is make site users receve msgs from anonmous people th e person who send the message does not need to sign up just write his message thin press send button, and this site have two languges arabic and englis thir is admin account can see all messages and users and many things.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "#",
+      "technologies": [
+        "Asp.Net MVC 5",
+        "EF Code First",
+        "C Sharp",
+        "Jquery",
+        "Ajax",
+        "Json",
+        "Bootstrap",
+        "Html 5",
+        "Css 3"
+      ],
+      "photos": [
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/1.png",
+          "caption": "Home Page"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/2.png",
+          "caption": "add new advice"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/3.png",
+          "caption": "edit account"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/4.png",
+          "caption": "control panel"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "title": "Khatra",
+      "description": "Khatra this site is just a journalist site to publish articls and users can add comments and thir is a role for writers admins those people onlay can create categories and publish the articls and who have admin account can see all admins and users and many things can do it else.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "#",
+      "technologies": [
+        "Asp.Net MVC 5",
+        "EF Code First",
+        "C Sharp",
+        "Jquery",
+        "Ajax",
+        "Json",
+        "Bootstrap",
+        "Html 5",
+        "Css 3"
+      ],
+      "photos": [
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/1.png",
+          "caption": "HomePage"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/2.png",
+          "caption": "article in details"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/3.png",
+          "caption": "update article"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/4.png",
+          "caption": "contact us page"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "Coursaty",
+      "description": "Coursaty this site to collect courses in one place, we have three kind of users, admins and work team and normal users, admins can add make normal user as member forom work team and do some thing else, work team can add new courses and edit it, normal user can browse courses, thir is many things you will descover it when visit the site.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "#",
+      "technologies": [
+        "Asp.Net MVC 5",
+        "EF Code First",
+        "C Sharp",
+        "Jquery",
+        "Ajax",
+        "Json",
+        "Bootstrap",
+        "Html 5",
+        "Css 3"
+      ],
+      "photos": [
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/1.png",
+          "caption": "Home Page"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/2.png",
+          "caption": "add new course"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/3.png",
+          "caption": "all courses"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/4.png",
+          "caption": "course details"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "Niqash",
+      "description": "Niqash is a social site giving users appilaty to create posts and comments and add like love and follow another people and thir are admins whose can do many things like see all users and remove user and more, all users can edit thir accounts like change account pictre and more.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "#",
+      "technologies": [
+        "Asp.Net MVC 5",
+        "EF Code First",
+        "C Sharp",
+        "Jquery",
+        "Ajax",
+        "Json",
+        "Bootstrap",
+        "Html 5",
+        "Css 3"
+      ],
+      "photos": [
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/1.png",
+          "caption": "Home Page"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/2.png",
+          "caption": "my account"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/3.png",
+          "caption": "update post"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/4.png",
+          "caption": "edit account"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Asaal",
+      "description": "Asaal is a site created by asp.net mvc 5, is giving user appility to add his question and another users add answers in his questions and any useer can add a replay  to any answer and thir is notifiqation syste giving user noifiqation when any thing happen and thir is Control panel to add new category and more.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "#",
+      "technologies": [
+        "Asp.Net MVC 5",
+        "EF Code First",
+        "C Sharp",
+        "Jquery",
+        "Ajax",
+        "Json",
+        "Bootstrap",
+        "Html 5",
+        "Css 3"
+      ],
+      "photos": [
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314431/MySite/projects/asaal/1.png",
+          "caption": "Home Page"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/asaal/2.png",
+          "caption": "new question"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/asaal/3.png",
+          "caption": "questions categories"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/asaal/4.png",
+          "caption": "new category"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "Austera",
+      "description": "austera is just psd template from one page not 'spa' i transform it to live site using 'html, css, bootstap' it is responsive of course cause we used bootstrap i create it after i learn bootstrap and i use wow js library too to make some animations when site opend.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Not Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "https://austera.netlify.app/",
+      "technologies": [
+        "Html",
+        "Css",
+        "Bootstrap"
+      ],
+      "photos": [
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644326534/MySite/projects/austera/1.png",
+          "caption": "intro section"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644326534/MySite/projects/austera/2.png",
+          "caption": "about us section"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644326534/MySite/projects/austera/3.png",
+          "caption": "company team"
+        },
+        {
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644326534/MySite/projects/austera/4.png",
+          "caption": "contact"
+        }
+      ]
+    }
+  ],
+
+  "descriptionHead": "Description",
+  "technologiesHead": "Technologies",
+  "copyrightsHead": "Copyrights",
+  "saleHead": "Sale",
+  "designedByHead": "Designed By",
+  "devlopedByHead": "Devloped By",
+  "okIloveItBtn": "Ok I Love it ❤❤❤"
+
+
+}
