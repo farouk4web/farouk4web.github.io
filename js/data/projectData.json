@@ -58,13 +58,13 @@
   "mySkillsHead": "My Skills",
   "skills": [
     "Asp.Net MVC 5",
-    "C Sharp",
     "EF Code First",
+    "C Sharp",
     "Linq",
     "Json",
     "Ajax",
     "Jquery",
-    "Bootstrap v3.7",
+    "Bootstrap",
     "Html 5",
     "Css"
   ],
