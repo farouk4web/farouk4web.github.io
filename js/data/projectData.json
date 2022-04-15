@@ -58,7 +58,7 @@
   "mySkillsHead": "My Skills",
   "skills": [
     "Asp.Net MVC 5",
-    "EF Code First",
+    "Entity Framework Code First",
     "C Sharp",
     "Linq",
     "Json",
