@@ -4,7 +4,7 @@ $(document).ready(function () {
     var data;
     $.ajax({
         url: "js/data/projectData.json",
-        url: "https://api.npoint.io/c01fc9b0e8aa91218aed",
+       
         type: "get",
 
         cache: false,
