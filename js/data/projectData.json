@@ -171,19 +171,19 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314431/MySite/projects/kushak/1.png",
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314431/MySite/projects/1.png",
           "caption": "product Page"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/kushak/2.png",
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/2.png",
           "caption": "product reviews"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/kushak/3.png",
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/3.png",
           "caption": "Order Details"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/kushak/4.png",
+          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/4.png",
           "caption": "New Product"
         }
       ]
