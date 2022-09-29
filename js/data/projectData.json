@@ -171,19 +171,19 @@
       ],
       "photos": [
         {
-          "url": "/projects/kushak/1.png",
+          "url": "/projects/dokana/1.png",
           "caption": "product Page"
         },
         {
-          "url": "/projects/kushak/2.png",
+          "url": "/projects/dokana/2.png",
           "caption": "product reviews"
         },
         {
-          "url": "/projects/kushak/3.png",
+          "url": "/projects/dokana/3.png",
           "caption": "Order Details"
         },
         {
-          "url": "/projects/kushak/4.png",
+          "url": "/projects/dokana/4.png",
           "caption": "New Product"
         }
       ]
@@ -244,19 +244,19 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314431/MySite/projects/asaal/1.png",
+          "url": "/projects/asaal/1.png",
           "caption": "Home Page"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/asaal/2.png",
+          "url": "/projects/asaal/2.png",
           "caption": "new question"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/asaal/3.png",
+          "url": "/projects/asaal/3.png",
           "caption": "questions categories"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/asaal/4.png",
+          "url": "/projects/asaal/4.png",
           "caption": "new category"
         }
       ]
@@ -283,19 +283,19 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/1.png",
+          "url": "/projects/nasiha/1.png",
           "caption": "Home Page"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/2.png",
+          "url": "/projects/nasiha/2.png",
           "caption": "add new advice"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/3.png",
+          "url": "/projects/nasiha/3.png",
           "caption": "edit account"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314109/MySite/projects/nasiha/4.png",
+          "url": "/projects/nasiha/4.png",
           "caption": "control panel"
         }
       ]
@@ -322,19 +322,19 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/1.png",
+          "url": "/projects/coursaty/1.png",
           "caption": "Home Page"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/2.png",
+          "url": "/projects/coursaty/2.png",
           "caption": "add new course"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/3.png",
+          "url": "/projects/coursaty/3.png",
           "caption": "all courses"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314223/MySite/projects/coursaty/4.png",
+          "url": "/projects/coursaty/4.png",
           "caption": "course details"
         }
       ]
@@ -361,19 +361,19 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/1.png",
+          "url": "/projects/khatra/1.png",
           "caption": "HomePage"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/2.png",
+          "url": "/projects/khatra/2.png",
           "caption": "article in details"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/3.png",
+          "url": "/projects/khatra/3.png",
           "caption": "update article"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314270/MySite/projects/khatra/4.png",
+          "url": "/projects/khatra/4.png",
           "caption": "contact us page"
         }
       ]
@@ -400,19 +400,19 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/1.png",
+          "url": "/projects/niqash/1.png",
           "caption": "Home Page"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/2.png",
+          "url": "/projects/niqash/2.png",
           "caption": "my account"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/3.png",
+          "url": "/projects/niqash/3.png",
           "caption": "update post"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/niqash/4.png",
+          "url": "/projects/niqash/4.png",
           "caption": "edit account"
         }
       ]
