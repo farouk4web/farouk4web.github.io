@@ -149,7 +149,7 @@
   "recentProjectsHead": "Recent Projects",
 
   "projects": [
-{
+    {
       "index": 0,
       "title": "Kushak",
       "description": "kushak is e-commerce site created by asp.net mvc 5, is giving user appility to bay products and user have the appilty to add thir reviews in products and Control panel to add new product, category and more and thir are roles for admins and super admins and shipping stuff and sellers there is many of features i cant explain all here..",
@@ -157,7 +157,7 @@
       "sale": "Available",
       "designedBy": "Farouk Abdelhamid - me",
       "devlopedBy": "Farouk Abdelhamid - me",
-      "projectLink": "http://asaal.somee.com/",
+      "projectLink": "http://kushak.somee.com/",
       "technologies": [
         "Asp.Net MVC 5",
         "EF Code First",
@@ -171,25 +171,59 @@
       ],
       "photos": [
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314431/MySite/projects/1.png",
+          "url": "/projects/kushak/1.png",
           "caption": "product Page"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/2.png",
+          "url": "/projects/kushak/2.png",
           "caption": "product reviews"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/3.png",
+          "url": "/projects/kushak/3.png",
           "caption": "Order Details"
         },
         {
-          "url": "https://res.cloudinary.com/files-store/image/upload/v1644314315/MySite/projects/4.png",
+          "url": "/projects/kushak/4.png",
           "caption": "New Product"
         }
       ]
     },
     {
       "index": 1,
+      "title": "Adly Hamdan",
+      "description": "this site is a present to mr adly hamdan spcialist in hijama this site created without any frameworks, created on one day.",
+      "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
+      "sale": "Not Available",
+      "designedBy": "Farouk Abdelhamid - me",
+      "devlopedBy": "Farouk Abdelhamid - me",
+      "projectLink": "https://adly.netlify.app/",
+      "technologies": [
+        "Jquery",
+        "Json",
+        "Html",
+        "Css"
+      ],
+      "photos": [
+        {
+          "url": "/projects/adly/1.png",
+          "caption": "benfits of hijama"
+        },
+        {
+          "url": "/projects/adly/2.png",
+          "caption": "About Hijama"
+        },
+        {
+          "url": "/projects/adly/3.png",
+          "caption": "why us"
+        },
+        {
+          "url": "/projects/adly/4.png",
+          "caption": "Contact"
+        }
+      ]
+    },
+    {
+      "index": 2,
       "title": "Asaal",
       "description": "Asaal is a site created by asp.net mvc 5, is giving user appility to add his question and another users add answers in his questions and any useer can add a replay  to any answer and thir is notifiqation syste giving user noifiqation when any thing happen and thir is Control panel to add new category and more.",
       "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
@@ -228,7 +262,7 @@
       ]
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Nasiha",
       "description": "Nasiha it is the first project i was cerated it is make site users receve msgs from anonmous people th e person who send the message does not need to sign up just write his message thin press send button, and this site have two languges arabic and englis thir is admin account can see all messages and users and many things.",
       "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
@@ -267,7 +301,7 @@
       ]
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Coursaty",
       "description": "Coursaty this site to collect courses in one place, we have three kind of users, admins and work team and normal users, admins can add make normal user as member forom work team and do some thing else, work team can add new courses and edit it, normal user can browse courses, thir is many things you will descover it when visit the site.",
       "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
@@ -306,7 +340,7 @@
       ]
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Khatra",
       "description": "Khatra this site is just a journalist site to publish articls and users can add comments and thir is a role for writers admins those people onlay can create categories and publish the articls and who have admin account can see all admins and users and many things can do it else.",
       "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
@@ -345,7 +379,7 @@
       ]
     },
     {
-      "index": 5,
+      "index": 6,
       "title": "Niqash",
       "description": "Niqash is a social site giving users appilaty to create posts and comments and add like love and follow another people and thir are admins whose can do many things like see all users and remove user and more, all users can edit thir accounts like change account pictre and more.",
       "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
@@ -385,7 +419,7 @@
     },
     
     {
-      "index": 6,
+      "index": 7,
       "title": "Austera",
       "description": "austera is just psd template from one page not 'spa' i transform it to live site using 'html, css, bootstap' it is responsive of course cause we used bootstrap i create it after i learn bootstrap and i use wow js library too to make some animations when site opend.",
       "copyrights": "This site developed by me only for that all copy rights reserved for me if you want to buy this site you need to contact me in any social account",
