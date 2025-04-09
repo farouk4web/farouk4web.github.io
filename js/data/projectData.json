@@ -17,19 +17,19 @@
     }
   ],
 
-  "downloadCvHead": "Download CV",
-  "cvLink": "/cv/FaroukAbdelhamid_CV.pdf",
+  "downloadCvHead": "CV Google Drive",
+  "cvLink": "https://drive.google.com/file/d/1zzOoU0KdyzzfiitoCHyR3_V9XoJxZDyX/view",
   "welcomeMsg": "Hi, I am",
   "homeDeveloperPicturSrc": "https://res.cloudinary.com/files-store/image/upload/v1644529725/MySite/developer/userHome.png",
   "aboutDeveloperPicturSrc": "https://res.cloudinary.com/files-store/image/upload/v1644529686/MySite/developer/userAbout.png",
 
   "developerName": "Farouk Abdelhamid",
-  "jobTitle": "Backend Developer(.net)",
-  "summary": "Hi, i am Backend Developer with .net looking to change my life to the best so i learn all skills i need to be what i want from youtube and paid courses, actually i do not have any experience in working with companies, but i can create any web app you want, and you can see my latest projects in my portfolio in Recent projects page.",
+  "jobTitle": "Full-Stack Developer(.net)",
+  "summary": "Hi, i am Full-Stack Developer with .net looking to change my life to the best so i learn all skills i need to be what i want from youtube and paid courses, actually i do not have any experience in working with companies, but i can create any web app you want, and you can see my latest projects in my portfolio in Recent projects page.",
   "personalInformationHead": "Personal Information",
   
   "addressHead": "Address",
-  "address": "Egypt - Qena",
+  "address": "Egypt - Cairo",
 
   "educationHead": "Education",
   "education": "Commercial school",
@@ -57,23 +57,28 @@
 
   "mySkillsHead": "My Skills",
   "skills": [
-    "Asp.Net MVC 5",
-    "Entity Framework Code First",
+    "Asp.Net core",
+    "Asp.Net",
+    "Entity Framework Core",
+    "Entity Framework",
     "C Sharp",
     "Linq",
-    "Json",
-    "Ajax",
+    "OOP",
+    "Design Patterns",
+    "Dapper",
+    "SQL Server",
+    "SignalR",
+    "Ajax & Json",
+    "JavaScript",
+    "TypeScript",
     "Jquery",
     "Bootstrap",
     "Html 5",
-    "Css"
+    "Css 3"
   ],
 
-  "inPlanSkillsHead": "In Plan",
-  "inPlanSkills": [
-    "Asp.Net core",
-    "React.js"
-  ],
+  "inPlanSkillsHead": "Professional Experience",
+  "inPlanSkills": [],
 
   "personalSkillsAndHobbiesHead": "Personal Skills & Hobbies",
 "personalSkillsAndHobbies": [
