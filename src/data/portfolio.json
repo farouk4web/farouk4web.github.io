@@ -1,0 +1,382 @@
+{
+  "profile": {
+    "name": "Farouk Abdelhamid",
+    "title": "Full-Stack Developer",
+    "roles": [
+      "Software Engineer",
+      "Back End Developer",
+      "Fullstack Developer"
+    ],
+    "tagline": "Full-Stack Developer specialized in .NET, building clean and scalable systems across ERP, e-commerce, transportation, and healthcare.",
+    "email": "FaroukAbdelhamid.eg@gmail.com",
+    "phone": "+201118179885",
+    "location": "Cairo, Egypt",
+    "resumeUrl": "https://drive.google.com/file/d/1DMrWbOw_2ziETM8EqUJrNqbuVasKca0j/view",
+    "avatar": "/assets/dev-pic.jpg",
+    "github": "https://github.com/farouk4web",
+    "socials": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/farouk4web",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/farouk4web",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/farouk4web/",
+        "icon": "twitter"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com/farouk4web/",
+        "icon": "facebook"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/+201118179885",
+        "icon": "whatsapp"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:FaroukAbdelhamid.eg@gmail.com",
+        "icon": "mail"
+      }
+    ],
+    "freelanceSites": [
+      {
+        "name": "Mostaql",
+        "url": "https://mostaql.com/u/farouk_almasry"
+      }
+    ]
+  },
+
+  "about": {
+    "heading": "About Me",
+    "bio": "I am a mid-level Full-Stack Developer with over 4 years of hands-on experience building and maintaining web applications across multiple domains including ERP, e-commerce, transportation, and healthcare. I've contributed to both freelance and in-house projects, gaining deep technical knowledge in .NET technologies, clean architecture, and modern development practices. Known for being self-taught and highly driven, I take pride in writing clean, scalable code, integrating third-party services, and solving complex backend challenges.",
+    "highlights": [
+      "4 years of professional .NET development experience",
+      "Strong experience with Clean Architecture, CQRS, and MediatR",
+      "Built systems for ERP, e-commerce, transportation, and healthcare",
+      "Hands-on experience with SQL Server, EF Core, Dapper, and T-SQL",
+      "Integrated third-party services (Paymob, Stripe, Fawry, WhatsApp APIs, AI)",
+      "Experienced in mentoring junior developers and leading code reviews"
+    ]
+  },
+
+  "skills": [
+    {
+      "category": "Frameworks & Libraries",
+      "items": [
+        "ASP.NET Core",
+        "ASP.NET MVC",
+        "Razor",
+        "Dapper",
+        "EF Core",
+        "MediatR",
+        "AutoMapper",
+        "SignalR",
+        "jQuery",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Ajax & JSON"
+      ]
+    },
+    {
+      "category": "Architecture & Patterns",
+      "items": [
+        "MVC",
+        "Clean Architecture",
+        "CQRS",
+        "Repository Pattern",
+        "Unit of Work",
+        "Dependency Injection",
+        "Design Patterns",
+        "SOLID Principles"
+      ]
+    },
+    {
+      "category": "Programming Languages",
+      "items": ["C#", "JavaScript", "TypeScript", "LINQ", "OOP"]
+    },
+    {
+      "category": "Databases",
+      "items": ["SQL Server", "T-SQL", "Entity Framework Core"]
+    },
+    {
+      "category": "API & Security",
+      "items": [
+        "RESTful APIs",
+        "API Integration",
+        "API Versioning",
+        "JWT Tokens",
+        "OAuth 2.0",
+        "Caching"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Postman",
+        "Swagger",
+        "Apidog",
+        "IIS",
+        "Trello"
+      ]
+    },
+    {
+      "category": "Testing & Practices",
+      "items": ["Unit Testing", "xUnit", "Moq", "Clean Code", "Code Review", "Debugging"]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Problem Solving",
+        "Critical Thinking",
+        "Collaboration",
+        "Technical Communication",
+        "Mentorship",
+        "Writing Docs"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Mid-Level Backend Developer",
+      "company": "Polaris Systems",
+      "companyUrl": "https://www.linkedin.com/company/polarissystems",
+      "period": "09/2025 - Present | Australia - Remote",
+      "description": "Developed an enterprise HR Management System using .NET 8 and Clean Architecture, with a focus on scalable, maintainable backend services.",
+      "responsibilities": [
+        "Implemented the CQRS pattern with MediatR to separate commands and queries",
+        "Built and maintained RESTful APIs for HR modules, ensuring scalability and maintainability",
+        "Implemented validation using FluentValidation and object mapping using AutoMapper",
+        "Wrote unit tests using xUnit and Moq, and maintained API documentation",
+        "Supported multi-tenancy, localization, and role-based business workflows",
+        "Participated in code reviews, bug fixing, and performance optimization",
+        "Worked in an Agile/Scrum environment, collaborating with cross-functional teams"
+      ]
+    },
+    {
+      "role": "Mid-Level Full-Stack Developer",
+      "company": "National Quality",
+      "companyUrl": "https://nqs.sa/",
+      "period": "11/2024 - 08/2025 | Cairo",
+      "description": "Led the end-to-end development and ongoing improvement of a robust ERP system using the ASP.NET MVC framework, managing both backend logic and frontend functionality.",
+      "responsibilities": [
+        "Partnered with stakeholders to gather and refine requirements, translating business needs into scalable technical solutions",
+        "Architected and implemented core system modules while enforcing clean architecture principles",
+        "Integrated diverse third-party services including AI chatbots, WhatsApp APIs, email providers, and the Salla Platform",
+        "Refactored and optimized legacy codebases to boost performance, scalability, and long-term maintainability",
+        "Mentored junior developers through technical guidance and contributed to project planning"
+      ]
+    },
+    {
+      "role": "Junior Full-Stack Developer",
+      "company": "Project Egy",
+      "companyUrl": "https://project-eg.com/Home",
+      "period": "09/2022 - 10/2024 | Giza",
+      "description": "Developed and maintained backend systems across diverse domains including medical consultations, social networking, e-commerce, transportation management, and vehicle maintenance.",
+      "responsibilities": [
+        "Collaborated with stakeholders to translate business requirements into scalable, efficient technical solutions",
+        "Integrated multiple third-party services including Fawry, Paymob, Stripe, Fawaterk, WhatsApp APIs, and email providers",
+        "Refactored and modernized legacy codebases (MVC5), improving reliability and reducing technical debt",
+        "Built frontend features with jQuery and Bootstrap while optimizing backend performance",
+        "Contributed to code reviews and solution design discussions across cross-functional teams"
+      ]
+    }
+  ],
+
+  "githubProjects": {
+    "enabled": false,
+    "githubUsername": "farouk4web",
+    "showGithubFirst": true,
+    "topics": ["portfolio"],
+    "manualRepos": [],
+    "perPage": 100
+  },
+
+  "projects": [
+    {
+      "name": "Souq - E-Commerce API",
+      "description": "A modular e-commerce API using ASP.NET Core and Clean Architecture, with authentication integrated with Paymob Egypt, product/order management, real-time updates, and media management.",
+      "tech": [
+        "ASP.NET Core",
+        "Clean Architecture",
+        "EF Core",
+        "SignalR",
+        "ImageKit",
+        "Paymob"
+      ],
+      "link": "http://souq.runasp.net/swagger/index.html",
+      "code": "#"
+    },
+    {
+      "name": "ToDoList Clean Architecture + Dapper",
+      "description": "A backend architecture project demonstrating Clean Architecture principles with CQRS (MediatR) for read/write separation and Dapper for high-performance data access using a Generic Repository pattern.",
+      "tech": [
+        "ASP.NET Core",
+        "Dapper",
+        "MediatR",
+        "CQRS",
+        "Clean Architecture"
+      ],
+      "link": "#",
+      "code": "https://github.com/farouk4web/ToDoList_CleanArch_Dapper"
+    },
+    {
+      "name": "Cashier Web Application",
+      "description": "A web application for a German client built with ASP.NET Core MVC, focusing on clean architecture and the Unit of Work pattern with dynamic reporting and responsive UI.",
+      "tech": [
+        "ASP.NET Core MVC",
+        "Dapper",
+        "Razor",
+        "Bootstrap",
+        "jQuery",
+        "JavaScript"
+      ],
+      "link": "#",
+      "code": "#"
+    },
+    {
+      "name": "Kushak",
+      "description": "An e-commerce site built with ASP.NET MVC 5. Users can buy products and add reviews, with a control panel to add products and categories. Includes roles for admins, super admins, shipping staff, and sellers.",
+      "tech": [
+        "ASP.NET MVC 5",
+        "EF Code First",
+        "C#",
+        "jQuery",
+        "Ajax & JSON",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "link": "http://kushak.somee.com/",
+      "code": "#"
+    },
+    {
+      "name": "Adly Hamdan",
+      "description": "A presentational website for Mr. Adly Hamdan, a Hijama specialist. Built without any frameworks in a single day.",
+      "tech": ["jQuery", "JSON", "HTML", "CSS"],
+      "link": "https://adly.netlify.app/",
+      "code": "#"
+    },
+    {
+      "name": "Asaal",
+      "description": "A Q&A site built with ASP.NET MVC 5. Users can ask questions, receive answers, and reply to answers, with a notification system and an admin control panel for managing categories.",
+      "tech": [
+        "ASP.NET MVC 5",
+        "EF Code First",
+        "C#",
+        "jQuery",
+        "Ajax & JSON",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "link": "http://asaal.somee.com/",
+      "code": "#"
+    },
+    {
+      "name": "Nasiha",
+      "description": "The first project I ever created - a site where users receive anonymous messages without needing to sign up. Features Arabic/English support, admin panel for viewing messages and users.",
+      "tech": [
+        "ASP.NET MVC 5",
+        "EF Code First",
+        "C#",
+        "jQuery",
+        "Ajax & JSON",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "link": "http://nasiha.somee.com/",
+      "code": "#"
+    },
+    {
+      "name": "Coursaty",
+      "description": "A platform to collect courses in one place with three user types (admins, work team, and regular users). Admins manage the team, the work team adds/edits courses, and users browse them.",
+      "tech": [
+        "ASP.NET MVC 5",
+        "EF Code First",
+        "C#",
+        "jQuery",
+        "Ajax & JSON",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "link": "http://coursaty.somee.com/",
+      "code": "#"
+    },
+    {
+      "name": "Khatra",
+      "description": "A journalist site to publish articles where users can add comments. Writers and admins create categories and publish articles, while admins manage all admins and users.",
+      "tech": [
+        "ASP.NET MVC 5",
+        "EF Code First",
+        "C#",
+        "jQuery",
+        "Ajax & JSON",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "link": "http://khatra.somee.com/",
+      "code": "#"
+    },
+    {
+      "name": "Niqash",
+      "description": "A social networking site where users can create posts, comment, like, and follow others. Includes an admin role for managing users and account customization.",
+      "tech": [
+        "ASP.NET MVC 5",
+        "EF Code First",
+        "C#",
+        "jQuery",
+        "Ajax & JSON",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "link": "http://niqash.somee.com/",
+      "code": "#"
+    },
+    {
+      "name": "Austera",
+      "description": "A single-page PSD template transformed into a responsive live site using HTML, CSS, and Bootstrap, with Wow.js animations.",
+      "tech": ["HTML", "CSS", "Bootstrap"],
+      "link": "https://austera.netlify.app/",
+      "code": "#"
+    }
+  ],
+
+  "contact": {
+    "heading": "Get In Touch",
+    "text": "I'm always open to discussing full-stack development opportunities and interesting projects. Feel free to reach out!",
+    "contactInfo": [
+      {
+        "label": "Email",
+        "value": "FaroukAbdelhamid.eg@gmail.com",
+        "type": "email"
+      },
+      {
+        "label": "Phone",
+        "value": "+201118179885",
+        "type": "phone"
+      },
+      {
+        "label": "Location",
+        "value": "Cairo, Egypt",
+        "type": "location"
+      }
+    ]
+  }
+}
